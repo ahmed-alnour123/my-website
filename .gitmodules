@@ -1,0 +1,9 @@
+[submodule "ahmed-alnour-site/themes/themes/PaperMod"]
+	path = ahmed-alnour-site/themes/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "ahmed-alnour-site/themes/PaperMod"]
+	path = ahmed-alnour-site/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "ahmed-alnour-site/public"]
+	path = ahmed-alnour-site/public
+	url = https://github.com/ahmed-alnour123/ahmed-alnour123.github.io.git
